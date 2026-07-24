@@ -1,0 +1,12 @@
+{
+  "categories": {
+    "ssb": { "name": "SSB / PPDT Prep", "color": "#1f77b4" },
+    "codeforces": { "name": "Codeforces", "color": "#ff7f0e" },
+    "tech": { "name": "Tech & AI", "color": "#2ca02c" }
+  },
+  "all_done_color": "#ffd700",
+  "none_color": "#ebedf0",
+  "history": {
+    "2026-07-24": ["ssb", "codeforces", "tech"]
+  }
+}
