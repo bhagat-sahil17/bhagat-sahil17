@@ -11,7 +11,6 @@ STYLESHEET = """
     fill: #57606a;
   }
   .month-label { font-weight: 600; font-size: 10px; }
-  .day-marker { font-size: 8px; font-weight: 400; }
 </style>
 """
 
@@ -31,8 +30,8 @@ def generate_svg():
 
     SQUARE_SIZE = 12
     GAP = 3
-    HEADER_HEIGHT = 30
-    LEFT_MARGIN = 35
+    HEADER_HEIGHT = 25
+    LEFT_MARGIN = 10
     WEEKS = 52
     DAYS_PER_WEEK = 7
 
@@ -41,9 +40,7 @@ def generate_svg():
 
     today = datetime.date.today()
     
-    # Standard GitHub alignment: Start from Sunday of 51 weeks ago
-    # Python weekday(): Mon=0, Tue=1, Wed=2, Thu=3, Fri=4, Sat=5, Sun=6
-    # Converting to Sun-indexed (Sun=0, Mon=1, Tue=2, Wed=3, Thu=4, Fri=5, Sat=6)
+    # Sunday-indexed calendar alignment
     days_since_sunday = (today.weekday() + 1) % 7
     start_date = today - datetime.timedelta(days=days_since_sunday + (WEEKS - 1) * 7)
 
@@ -74,15 +71,8 @@ def generate_svg():
 
         if month_name != last_month:
             x_pos = LEFT_MARGIN + week * (SQUARE_SIZE + GAP)
-            svg_nodes.append(f'<text x="{x_pos}" y="20" class="month-label">{month_name}</text>')
+            svg_nodes.append(f'<text x="{x_pos}" y="15" class="month-label">{month_name}</text>')
             last_month = month_name
-
-    # --- Corrected Day Markers (Sunday = Row 0) ---
-    # Row 1 = Mon, Row 3 = Wed, Row 5 = Fri
-    day_labels = {1: "Mon", 3: "Wed", 5: "Fri"}
-    for day_index, label in day_labels.items():
-        y_pos = HEADER_HEIGHT + day_index * (SQUARE_SIZE + GAP) + (SQUARE_SIZE / 2) + 3
-        svg_nodes.append(f'<text x="5" y="{y_pos}" class="day-marker">{label}</text>')
 
     # --- Draw Squares ---
     for week in range(WEEKS):
