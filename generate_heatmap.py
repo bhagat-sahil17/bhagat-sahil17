@@ -1,7 +1,7 @@
 import json
 import datetime
 
-# Load habit data
+# Load habit data from growth.json
 with open('growth.json', 'r') as f:
     data = json.load(f)
 
@@ -54,9 +54,17 @@ for week in range(WEEKS):
         x = LEFT_MARGIN + week * (SQUARE_SIZE + GAP)
         y = HEADER_HEIGHT + day * (SQUARE_SIZE + GAP)
         
+        # Build clean hover tooltip text
+        completed_items = history.get(date_str, [])
+        if completed_items:
+            details = ", ".join([data['categories'].get(c, {}).get('name', c) for c in completed_items])
+            tooltip = f"{date_str}: {details}"
+        else:
+            tooltip = f"{date_str}: Rest Day"
+
         svg_nodes.append(
             f'<rect x="{x}" y="{y}" width="{SQUARE_SIZE}" height="{SQUARE_SIZE}" fill="{color}">'
-            f'<title>{date_str}: {", ".join(history.get(date_str, ["Rest Day"]))}</title>'
+            f'<title>{tooltip}</title>'
             '</rect>'
         )
         current_date += datetime.timedelta(days=1)
