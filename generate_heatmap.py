@@ -2,7 +2,7 @@ import json
 import datetime
 
 # Load habit data
-with open('habits.json', 'r') as f:
+with open('growth.json', 'r') as f:
     data = json.load(f)
 
 categories = list(data['categories'].keys())
