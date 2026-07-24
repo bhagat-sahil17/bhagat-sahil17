@@ -10,23 +10,13 @@
 ## 🚀 About Me
 
 - 🎓 **B.Tech Graduate** | Passionate Software Engineer & Tech Explorer.
-- 📱 **Mobile Developer:** Specializing in native Android development with Kotlin & modern architecture.
-- 💻 **Competitive Programmer & CS Enthusiast:** Strong foundation in DSA, Algorithms, DBMS, Operating Systems, and Computer Networks.
+- 💻 **Software Engineer:** Skilled in Full-Stack Web (React, Node.js, Express, MongoDB) & Native Android Development (Kotlin).
+- ⚡ **Competitive Programmer & CS Enthusiast:** Strong foundation in DSA, Algorithms, DBMS, Operating Systems, and Computer Networks.
 - 🎯 **Continuous Learner:** Tracking daily progress across Tech, Problem Solving, and Defence Exam Preparation (AFCAT/SSB).
 
 ---
 
 ## 🛠️ Tech Stack & Skills
-
-### 📱 Android Development
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![SQLite](https://img.shields.io/badge/Room%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-
-> **Key Concepts:** XML Layouts, Coroutines, Retrofit, Room DB, Android Architecture Components (MVVM, LiveData, ViewModel)
-
----
 
 ### 🌐 Web & Backend
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -35,6 +25,16 @@
 ![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+---
+
+### 📱 Android Development
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/Room%20DB-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+> **Key Concepts:** XML Layouts, Coroutines, Retrofit, Room DB, Android Architecture Components (MVVM, LiveData, ViewModel)
 
 ---
 
