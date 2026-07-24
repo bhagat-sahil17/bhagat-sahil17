@@ -1,368 +1,381 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="810" height="135" viewBox="0 0 810 135">
-<style>rect { rx: 2px; ry: 2px; }</style>
-<rect width="810" height="135" fill="#ffffff" />
-<rect x="20" y="20" width="12" height="12" fill="#ebedf0"><title>2025-07-26: Rest Day</title></rect>
-<rect x="20" y="35" width="12" height="12" fill="#ebedf0"><title>2025-07-27: Rest Day</title></rect>
-<rect x="20" y="50" width="12" height="12" fill="#ebedf0"><title>2025-07-28: Rest Day</title></rect>
-<rect x="20" y="65" width="12" height="12" fill="#ebedf0"><title>2025-07-29: Rest Day</title></rect>
-<rect x="20" y="80" width="12" height="12" fill="#ebedf0"><title>2025-07-30: Rest Day</title></rect>
-<rect x="20" y="95" width="12" height="12" fill="#ebedf0"><title>2025-07-31: Rest Day</title></rect>
-<rect x="20" y="110" width="12" height="12" fill="#ebedf0"><title>2025-08-01: Rest Day</title></rect>
-<rect x="35" y="20" width="12" height="12" fill="#ebedf0"><title>2025-08-02: Rest Day</title></rect>
-<rect x="35" y="35" width="12" height="12" fill="#ebedf0"><title>2025-08-03: Rest Day</title></rect>
-<rect x="35" y="50" width="12" height="12" fill="#ebedf0"><title>2025-08-04: Rest Day</title></rect>
-<rect x="35" y="65" width="12" height="12" fill="#ebedf0"><title>2025-08-05: Rest Day</title></rect>
-<rect x="35" y="80" width="12" height="12" fill="#ebedf0"><title>2025-08-06: Rest Day</title></rect>
-<rect x="35" y="95" width="12" height="12" fill="#ebedf0"><title>2025-08-07: Rest Day</title></rect>
-<rect x="35" y="110" width="12" height="12" fill="#ebedf0"><title>2025-08-08: Rest Day</title></rect>
-<rect x="50" y="20" width="12" height="12" fill="#ebedf0"><title>2025-08-09: Rest Day</title></rect>
-<rect x="50" y="35" width="12" height="12" fill="#ebedf0"><title>2025-08-10: Rest Day</title></rect>
-<rect x="50" y="50" width="12" height="12" fill="#ebedf0"><title>2025-08-11: Rest Day</title></rect>
-<rect x="50" y="65" width="12" height="12" fill="#ebedf0"><title>2025-08-12: Rest Day</title></rect>
-<rect x="50" y="80" width="12" height="12" fill="#ebedf0"><title>2025-08-13: Rest Day</title></rect>
-<rect x="50" y="95" width="12" height="12" fill="#ebedf0"><title>2025-08-14: Rest Day</title></rect>
-<rect x="50" y="110" width="12" height="12" fill="#ebedf0"><title>2025-08-15: Rest Day</title></rect>
-<rect x="65" y="20" width="12" height="12" fill="#ebedf0"><title>2025-08-16: Rest Day</title></rect>
-<rect x="65" y="35" width="12" height="12" fill="#ebedf0"><title>2025-08-17: Rest Day</title></rect>
-<rect x="65" y="50" width="12" height="12" fill="#ebedf0"><title>2025-08-18: Rest Day</title></rect>
-<rect x="65" y="65" width="12" height="12" fill="#ebedf0"><title>2025-08-19: Rest Day</title></rect>
-<rect x="65" y="80" width="12" height="12" fill="#ebedf0"><title>2025-08-20: Rest Day</title></rect>
-<rect x="65" y="95" width="12" height="12" fill="#ebedf0"><title>2025-08-21: Rest Day</title></rect>
-<rect x="65" y="110" width="12" height="12" fill="#ebedf0"><title>2025-08-22: Rest Day</title></rect>
-<rect x="80" y="20" width="12" height="12" fill="#ebedf0"><title>2025-08-23: Rest Day</title></rect>
-<rect x="80" y="35" width="12" height="12" fill="#ebedf0"><title>2025-08-24: Rest Day</title></rect>
-<rect x="80" y="50" width="12" height="12" fill="#ebedf0"><title>2025-08-25: Rest Day</title></rect>
-<rect x="80" y="65" width="12" height="12" fill="#ebedf0"><title>2025-08-26: Rest Day</title></rect>
-<rect x="80" y="80" width="12" height="12" fill="#ebedf0"><title>2025-08-27: Rest Day</title></rect>
-<rect x="80" y="95" width="12" height="12" fill="#ebedf0"><title>2025-08-28: Rest Day</title></rect>
-<rect x="80" y="110" width="12" height="12" fill="#ebedf0"><title>2025-08-29: Rest Day</title></rect>
-<rect x="95" y="20" width="12" height="12" fill="#ebedf0"><title>2025-08-30: Rest Day</title></rect>
-<rect x="95" y="35" width="12" height="12" fill="#ebedf0"><title>2025-08-31: Rest Day</title></rect>
-<rect x="95" y="50" width="12" height="12" fill="#ebedf0"><title>2025-09-01: Rest Day</title></rect>
-<rect x="95" y="65" width="12" height="12" fill="#ebedf0"><title>2025-09-02: Rest Day</title></rect>
-<rect x="95" y="80" width="12" height="12" fill="#ebedf0"><title>2025-09-03: Rest Day</title></rect>
-<rect x="95" y="95" width="12" height="12" fill="#ebedf0"><title>2025-09-04: Rest Day</title></rect>
-<rect x="95" y="110" width="12" height="12" fill="#ebedf0"><title>2025-09-05: Rest Day</title></rect>
-<rect x="110" y="20" width="12" height="12" fill="#ebedf0"><title>2025-09-06: Rest Day</title></rect>
-<rect x="110" y="35" width="12" height="12" fill="#ebedf0"><title>2025-09-07: Rest Day</title></rect>
-<rect x="110" y="50" width="12" height="12" fill="#ebedf0"><title>2025-09-08: Rest Day</title></rect>
-<rect x="110" y="65" width="12" height="12" fill="#ebedf0"><title>2025-09-09: Rest Day</title></rect>
-<rect x="110" y="80" width="12" height="12" fill="#ebedf0"><title>2025-09-10: Rest Day</title></rect>
-<rect x="110" y="95" width="12" height="12" fill="#ebedf0"><title>2025-09-11: Rest Day</title></rect>
-<rect x="110" y="110" width="12" height="12" fill="#ebedf0"><title>2025-09-12: Rest Day</title></rect>
-<rect x="125" y="20" width="12" height="12" fill="#ebedf0"><title>2025-09-13: Rest Day</title></rect>
-<rect x="125" y="35" width="12" height="12" fill="#ebedf0"><title>2025-09-14: Rest Day</title></rect>
-<rect x="125" y="50" width="12" height="12" fill="#ebedf0"><title>2025-09-15: Rest Day</title></rect>
-<rect x="125" y="65" width="12" height="12" fill="#ebedf0"><title>2025-09-16: Rest Day</title></rect>
-<rect x="125" y="80" width="12" height="12" fill="#ebedf0"><title>2025-09-17: Rest Day</title></rect>
-<rect x="125" y="95" width="12" height="12" fill="#ebedf0"><title>2025-09-18: Rest Day</title></rect>
-<rect x="125" y="110" width="12" height="12" fill="#ebedf0"><title>2025-09-19: Rest Day</title></rect>
-<rect x="140" y="20" width="12" height="12" fill="#ebedf0"><title>2025-09-20: Rest Day</title></rect>
-<rect x="140" y="35" width="12" height="12" fill="#ebedf0"><title>2025-09-21: Rest Day</title></rect>
-<rect x="140" y="50" width="12" height="12" fill="#ebedf0"><title>2025-09-22: Rest Day</title></rect>
-<rect x="140" y="65" width="12" height="12" fill="#ebedf0"><title>2025-09-23: Rest Day</title></rect>
-<rect x="140" y="80" width="12" height="12" fill="#ebedf0"><title>2025-09-24: Rest Day</title></rect>
-<rect x="140" y="95" width="12" height="12" fill="#ebedf0"><title>2025-09-25: Rest Day</title></rect>
-<rect x="140" y="110" width="12" height="12" fill="#ebedf0"><title>2025-09-26: Rest Day</title></rect>
-<rect x="155" y="20" width="12" height="12" fill="#ebedf0"><title>2025-09-27: Rest Day</title></rect>
-<rect x="155" y="35" width="12" height="12" fill="#ebedf0"><title>2025-09-28: Rest Day</title></rect>
-<rect x="155" y="50" width="12" height="12" fill="#ebedf0"><title>2025-09-29: Rest Day</title></rect>
-<rect x="155" y="65" width="12" height="12" fill="#ebedf0"><title>2025-09-30: Rest Day</title></rect>
-<rect x="155" y="80" width="12" height="12" fill="#ebedf0"><title>2025-10-01: Rest Day</title></rect>
-<rect x="155" y="95" width="12" height="12" fill="#ebedf0"><title>2025-10-02: Rest Day</title></rect>
-<rect x="155" y="110" width="12" height="12" fill="#ebedf0"><title>2025-10-03: Rest Day</title></rect>
-<rect x="170" y="20" width="12" height="12" fill="#ebedf0"><title>2025-10-04: Rest Day</title></rect>
-<rect x="170" y="35" width="12" height="12" fill="#ebedf0"><title>2025-10-05: Rest Day</title></rect>
-<rect x="170" y="50" width="12" height="12" fill="#ebedf0"><title>2025-10-06: Rest Day</title></rect>
-<rect x="170" y="65" width="12" height="12" fill="#ebedf0"><title>2025-10-07: Rest Day</title></rect>
-<rect x="170" y="80" width="12" height="12" fill="#ebedf0"><title>2025-10-08: Rest Day</title></rect>
-<rect x="170" y="95" width="12" height="12" fill="#ebedf0"><title>2025-10-09: Rest Day</title></rect>
-<rect x="170" y="110" width="12" height="12" fill="#ebedf0"><title>2025-10-10: Rest Day</title></rect>
-<rect x="185" y="20" width="12" height="12" fill="#ebedf0"><title>2025-10-11: Rest Day</title></rect>
-<rect x="185" y="35" width="12" height="12" fill="#ebedf0"><title>2025-10-12: Rest Day</title></rect>
-<rect x="185" y="50" width="12" height="12" fill="#ebedf0"><title>2025-10-13: Rest Day</title></rect>
-<rect x="185" y="65" width="12" height="12" fill="#ebedf0"><title>2025-10-14: Rest Day</title></rect>
-<rect x="185" y="80" width="12" height="12" fill="#ebedf0"><title>2025-10-15: Rest Day</title></rect>
-<rect x="185" y="95" width="12" height="12" fill="#ebedf0"><title>2025-10-16: Rest Day</title></rect>
-<rect x="185" y="110" width="12" height="12" fill="#ebedf0"><title>2025-10-17: Rest Day</title></rect>
-<rect x="200" y="20" width="12" height="12" fill="#ebedf0"><title>2025-10-18: Rest Day</title></rect>
-<rect x="200" y="35" width="12" height="12" fill="#ebedf0"><title>2025-10-19: Rest Day</title></rect>
-<rect x="200" y="50" width="12" height="12" fill="#ebedf0"><title>2025-10-20: Rest Day</title></rect>
-<rect x="200" y="65" width="12" height="12" fill="#ebedf0"><title>2025-10-21: Rest Day</title></rect>
-<rect x="200" y="80" width="12" height="12" fill="#ebedf0"><title>2025-10-22: Rest Day</title></rect>
-<rect x="200" y="95" width="12" height="12" fill="#ebedf0"><title>2025-10-23: Rest Day</title></rect>
-<rect x="200" y="110" width="12" height="12" fill="#ebedf0"><title>2025-10-24: Rest Day</title></rect>
-<rect x="215" y="20" width="12" height="12" fill="#ebedf0"><title>2025-10-25: Rest Day</title></rect>
-<rect x="215" y="35" width="12" height="12" fill="#ebedf0"><title>2025-10-26: Rest Day</title></rect>
-<rect x="215" y="50" width="12" height="12" fill="#ebedf0"><title>2025-10-27: Rest Day</title></rect>
-<rect x="215" y="65" width="12" height="12" fill="#ebedf0"><title>2025-10-28: Rest Day</title></rect>
-<rect x="215" y="80" width="12" height="12" fill="#ebedf0"><title>2025-10-29: Rest Day</title></rect>
-<rect x="215" y="95" width="12" height="12" fill="#ebedf0"><title>2025-10-30: Rest Day</title></rect>
-<rect x="215" y="110" width="12" height="12" fill="#ebedf0"><title>2025-10-31: Rest Day</title></rect>
-<rect x="230" y="20" width="12" height="12" fill="#ebedf0"><title>2025-11-01: Rest Day</title></rect>
-<rect x="230" y="35" width="12" height="12" fill="#ebedf0"><title>2025-11-02: Rest Day</title></rect>
-<rect x="230" y="50" width="12" height="12" fill="#ebedf0"><title>2025-11-03: Rest Day</title></rect>
-<rect x="230" y="65" width="12" height="12" fill="#ebedf0"><title>2025-11-04: Rest Day</title></rect>
-<rect x="230" y="80" width="12" height="12" fill="#ebedf0"><title>2025-11-05: Rest Day</title></rect>
-<rect x="230" y="95" width="12" height="12" fill="#ebedf0"><title>2025-11-06: Rest Day</title></rect>
-<rect x="230" y="110" width="12" height="12" fill="#ebedf0"><title>2025-11-07: Rest Day</title></rect>
-<rect x="245" y="20" width="12" height="12" fill="#ebedf0"><title>2025-11-08: Rest Day</title></rect>
-<rect x="245" y="35" width="12" height="12" fill="#ebedf0"><title>2025-11-09: Rest Day</title></rect>
-<rect x="245" y="50" width="12" height="12" fill="#ebedf0"><title>2025-11-10: Rest Day</title></rect>
-<rect x="245" y="65" width="12" height="12" fill="#ebedf0"><title>2025-11-11: Rest Day</title></rect>
-<rect x="245" y="80" width="12" height="12" fill="#ebedf0"><title>2025-11-12: Rest Day</title></rect>
-<rect x="245" y="95" width="12" height="12" fill="#ebedf0"><title>2025-11-13: Rest Day</title></rect>
-<rect x="245" y="110" width="12" height="12" fill="#ebedf0"><title>2025-11-14: Rest Day</title></rect>
-<rect x="260" y="20" width="12" height="12" fill="#ebedf0"><title>2025-11-15: Rest Day</title></rect>
-<rect x="260" y="35" width="12" height="12" fill="#ebedf0"><title>2025-11-16: Rest Day</title></rect>
-<rect x="260" y="50" width="12" height="12" fill="#ebedf0"><title>2025-11-17: Rest Day</title></rect>
-<rect x="260" y="65" width="12" height="12" fill="#ebedf0"><title>2025-11-18: Rest Day</title></rect>
-<rect x="260" y="80" width="12" height="12" fill="#ebedf0"><title>2025-11-19: Rest Day</title></rect>
-<rect x="260" y="95" width="12" height="12" fill="#ebedf0"><title>2025-11-20: Rest Day</title></rect>
-<rect x="260" y="110" width="12" height="12" fill="#ebedf0"><title>2025-11-21: Rest Day</title></rect>
-<rect x="275" y="20" width="12" height="12" fill="#ebedf0"><title>2025-11-22: Rest Day</title></rect>
-<rect x="275" y="35" width="12" height="12" fill="#ebedf0"><title>2025-11-23: Rest Day</title></rect>
-<rect x="275" y="50" width="12" height="12" fill="#ebedf0"><title>2025-11-24: Rest Day</title></rect>
-<rect x="275" y="65" width="12" height="12" fill="#ebedf0"><title>2025-11-25: Rest Day</title></rect>
-<rect x="275" y="80" width="12" height="12" fill="#ebedf0"><title>2025-11-26: Rest Day</title></rect>
-<rect x="275" y="95" width="12" height="12" fill="#ebedf0"><title>2025-11-27: Rest Day</title></rect>
-<rect x="275" y="110" width="12" height="12" fill="#ebedf0"><title>2025-11-28: Rest Day</title></rect>
-<rect x="290" y="20" width="12" height="12" fill="#ebedf0"><title>2025-11-29: Rest Day</title></rect>
-<rect x="290" y="35" width="12" height="12" fill="#ebedf0"><title>2025-11-30: Rest Day</title></rect>
-<rect x="290" y="50" width="12" height="12" fill="#ebedf0"><title>2025-12-01: Rest Day</title></rect>
-<rect x="290" y="65" width="12" height="12" fill="#ebedf0"><title>2025-12-02: Rest Day</title></rect>
-<rect x="290" y="80" width="12" height="12" fill="#ebedf0"><title>2025-12-03: Rest Day</title></rect>
-<rect x="290" y="95" width="12" height="12" fill="#ebedf0"><title>2025-12-04: Rest Day</title></rect>
-<rect x="290" y="110" width="12" height="12" fill="#ebedf0"><title>2025-12-05: Rest Day</title></rect>
-<rect x="305" y="20" width="12" height="12" fill="#ebedf0"><title>2025-12-06: Rest Day</title></rect>
-<rect x="305" y="35" width="12" height="12" fill="#ebedf0"><title>2025-12-07: Rest Day</title></rect>
-<rect x="305" y="50" width="12" height="12" fill="#ebedf0"><title>2025-12-08: Rest Day</title></rect>
-<rect x="305" y="65" width="12" height="12" fill="#ebedf0"><title>2025-12-09: Rest Day</title></rect>
-<rect x="305" y="80" width="12" height="12" fill="#ebedf0"><title>2025-12-10: Rest Day</title></rect>
-<rect x="305" y="95" width="12" height="12" fill="#ebedf0"><title>2025-12-11: Rest Day</title></rect>
-<rect x="305" y="110" width="12" height="12" fill="#ebedf0"><title>2025-12-12: Rest Day</title></rect>
-<rect x="320" y="20" width="12" height="12" fill="#ebedf0"><title>2025-12-13: Rest Day</title></rect>
-<rect x="320" y="35" width="12" height="12" fill="#ebedf0"><title>2025-12-14: Rest Day</title></rect>
-<rect x="320" y="50" width="12" height="12" fill="#ebedf0"><title>2025-12-15: Rest Day</title></rect>
-<rect x="320" y="65" width="12" height="12" fill="#ebedf0"><title>2025-12-16: Rest Day</title></rect>
-<rect x="320" y="80" width="12" height="12" fill="#ebedf0"><title>2025-12-17: Rest Day</title></rect>
-<rect x="320" y="95" width="12" height="12" fill="#ebedf0"><title>2025-12-18: Rest Day</title></rect>
-<rect x="320" y="110" width="12" height="12" fill="#ebedf0"><title>2025-12-19: Rest Day</title></rect>
-<rect x="335" y="20" width="12" height="12" fill="#ebedf0"><title>2025-12-20: Rest Day</title></rect>
-<rect x="335" y="35" width="12" height="12" fill="#ebedf0"><title>2025-12-21: Rest Day</title></rect>
-<rect x="335" y="50" width="12" height="12" fill="#ebedf0"><title>2025-12-22: Rest Day</title></rect>
-<rect x="335" y="65" width="12" height="12" fill="#ebedf0"><title>2025-12-23: Rest Day</title></rect>
-<rect x="335" y="80" width="12" height="12" fill="#ebedf0"><title>2025-12-24: Rest Day</title></rect>
-<rect x="335" y="95" width="12" height="12" fill="#ebedf0"><title>2025-12-25: Rest Day</title></rect>
-<rect x="335" y="110" width="12" height="12" fill="#ebedf0"><title>2025-12-26: Rest Day</title></rect>
-<rect x="350" y="20" width="12" height="12" fill="#ebedf0"><title>2025-12-27: Rest Day</title></rect>
-<rect x="350" y="35" width="12" height="12" fill="#ebedf0"><title>2025-12-28: Rest Day</title></rect>
-<rect x="350" y="50" width="12" height="12" fill="#ebedf0"><title>2025-12-29: Rest Day</title></rect>
-<rect x="350" y="65" width="12" height="12" fill="#ebedf0"><title>2025-12-30: Rest Day</title></rect>
-<rect x="350" y="80" width="12" height="12" fill="#ebedf0"><title>2025-12-31: Rest Day</title></rect>
-<rect x="350" y="95" width="12" height="12" fill="#ebedf0"><title>2026-01-01: Rest Day</title></rect>
-<rect x="350" y="110" width="12" height="12" fill="#ebedf0"><title>2026-01-02: Rest Day</title></rect>
-<rect x="365" y="20" width="12" height="12" fill="#ebedf0"><title>2026-01-03: Rest Day</title></rect>
-<rect x="365" y="35" width="12" height="12" fill="#ebedf0"><title>2026-01-04: Rest Day</title></rect>
-<rect x="365" y="50" width="12" height="12" fill="#ebedf0"><title>2026-01-05: Rest Day</title></rect>
-<rect x="365" y="65" width="12" height="12" fill="#ebedf0"><title>2026-01-06: Rest Day</title></rect>
-<rect x="365" y="80" width="12" height="12" fill="#ebedf0"><title>2026-01-07: Rest Day</title></rect>
-<rect x="365" y="95" width="12" height="12" fill="#ebedf0"><title>2026-01-08: Rest Day</title></rect>
-<rect x="365" y="110" width="12" height="12" fill="#ebedf0"><title>2026-01-09: Rest Day</title></rect>
-<rect x="380" y="20" width="12" height="12" fill="#ebedf0"><title>2026-01-10: Rest Day</title></rect>
-<rect x="380" y="35" width="12" height="12" fill="#ebedf0"><title>2026-01-11: Rest Day</title></rect>
-<rect x="380" y="50" width="12" height="12" fill="#ebedf0"><title>2026-01-12: Rest Day</title></rect>
-<rect x="380" y="65" width="12" height="12" fill="#ebedf0"><title>2026-01-13: Rest Day</title></rect>
-<rect x="380" y="80" width="12" height="12" fill="#ebedf0"><title>2026-01-14: Rest Day</title></rect>
-<rect x="380" y="95" width="12" height="12" fill="#ebedf0"><title>2026-01-15: Rest Day</title></rect>
-<rect x="380" y="110" width="12" height="12" fill="#ebedf0"><title>2026-01-16: Rest Day</title></rect>
-<rect x="395" y="20" width="12" height="12" fill="#ebedf0"><title>2026-01-17: Rest Day</title></rect>
-<rect x="395" y="35" width="12" height="12" fill="#ebedf0"><title>2026-01-18: Rest Day</title></rect>
-<rect x="395" y="50" width="12" height="12" fill="#ebedf0"><title>2026-01-19: Rest Day</title></rect>
-<rect x="395" y="65" width="12" height="12" fill="#ebedf0"><title>2026-01-20: Rest Day</title></rect>
-<rect x="395" y="80" width="12" height="12" fill="#ebedf0"><title>2026-01-21: Rest Day</title></rect>
-<rect x="395" y="95" width="12" height="12" fill="#ebedf0"><title>2026-01-22: Rest Day</title></rect>
-<rect x="395" y="110" width="12" height="12" fill="#ebedf0"><title>2026-01-23: Rest Day</title></rect>
-<rect x="410" y="20" width="12" height="12" fill="#ebedf0"><title>2026-01-24: Rest Day</title></rect>
-<rect x="410" y="35" width="12" height="12" fill="#ebedf0"><title>2026-01-25: Rest Day</title></rect>
-<rect x="410" y="50" width="12" height="12" fill="#ebedf0"><title>2026-01-26: Rest Day</title></rect>
-<rect x="410" y="65" width="12" height="12" fill="#ebedf0"><title>2026-01-27: Rest Day</title></rect>
-<rect x="410" y="80" width="12" height="12" fill="#ebedf0"><title>2026-01-28: Rest Day</title></rect>
-<rect x="410" y="95" width="12" height="12" fill="#ebedf0"><title>2026-01-29: Rest Day</title></rect>
-<rect x="410" y="110" width="12" height="12" fill="#ebedf0"><title>2026-01-30: Rest Day</title></rect>
-<rect x="425" y="20" width="12" height="12" fill="#ebedf0"><title>2026-01-31: Rest Day</title></rect>
-<rect x="425" y="35" width="12" height="12" fill="#ebedf0"><title>2026-02-01: Rest Day</title></rect>
-<rect x="425" y="50" width="12" height="12" fill="#ebedf0"><title>2026-02-02: Rest Day</title></rect>
-<rect x="425" y="65" width="12" height="12" fill="#ebedf0"><title>2026-02-03: Rest Day</title></rect>
-<rect x="425" y="80" width="12" height="12" fill="#ebedf0"><title>2026-02-04: Rest Day</title></rect>
-<rect x="425" y="95" width="12" height="12" fill="#ebedf0"><title>2026-02-05: Rest Day</title></rect>
-<rect x="425" y="110" width="12" height="12" fill="#ebedf0"><title>2026-02-06: Rest Day</title></rect>
-<rect x="440" y="20" width="12" height="12" fill="#ebedf0"><title>2026-02-07: Rest Day</title></rect>
-<rect x="440" y="35" width="12" height="12" fill="#ebedf0"><title>2026-02-08: Rest Day</title></rect>
-<rect x="440" y="50" width="12" height="12" fill="#ebedf0"><title>2026-02-09: Rest Day</title></rect>
-<rect x="440" y="65" width="12" height="12" fill="#ebedf0"><title>2026-02-10: Rest Day</title></rect>
-<rect x="440" y="80" width="12" height="12" fill="#ebedf0"><title>2026-02-11: Rest Day</title></rect>
-<rect x="440" y="95" width="12" height="12" fill="#ebedf0"><title>2026-02-12: Rest Day</title></rect>
-<rect x="440" y="110" width="12" height="12" fill="#ebedf0"><title>2026-02-13: Rest Day</title></rect>
-<rect x="455" y="20" width="12" height="12" fill="#ebedf0"><title>2026-02-14: Rest Day</title></rect>
-<rect x="455" y="35" width="12" height="12" fill="#ebedf0"><title>2026-02-15: Rest Day</title></rect>
-<rect x="455" y="50" width="12" height="12" fill="#ebedf0"><title>2026-02-16: Rest Day</title></rect>
-<rect x="455" y="65" width="12" height="12" fill="#ebedf0"><title>2026-02-17: Rest Day</title></rect>
-<rect x="455" y="80" width="12" height="12" fill="#ebedf0"><title>2026-02-18: Rest Day</title></rect>
-<rect x="455" y="95" width="12" height="12" fill="#ebedf0"><title>2026-02-19: Rest Day</title></rect>
-<rect x="455" y="110" width="12" height="12" fill="#ebedf0"><title>2026-02-20: Rest Day</title></rect>
-<rect x="470" y="20" width="12" height="12" fill="#ebedf0"><title>2026-02-21: Rest Day</title></rect>
-<rect x="470" y="35" width="12" height="12" fill="#ebedf0"><title>2026-02-22: Rest Day</title></rect>
-<rect x="470" y="50" width="12" height="12" fill="#ebedf0"><title>2026-02-23: Rest Day</title></rect>
-<rect x="470" y="65" width="12" height="12" fill="#ebedf0"><title>2026-02-24: Rest Day</title></rect>
-<rect x="470" y="80" width="12" height="12" fill="#ebedf0"><title>2026-02-25: Rest Day</title></rect>
-<rect x="470" y="95" width="12" height="12" fill="#ebedf0"><title>2026-02-26: Rest Day</title></rect>
-<rect x="470" y="110" width="12" height="12" fill="#ebedf0"><title>2026-02-27: Rest Day</title></rect>
-<rect x="485" y="20" width="12" height="12" fill="#ebedf0"><title>2026-02-28: Rest Day</title></rect>
-<rect x="485" y="35" width="12" height="12" fill="#ebedf0"><title>2026-03-01: Rest Day</title></rect>
-<rect x="485" y="50" width="12" height="12" fill="#ebedf0"><title>2026-03-02: Rest Day</title></rect>
-<rect x="485" y="65" width="12" height="12" fill="#ebedf0"><title>2026-03-03: Rest Day</title></rect>
-<rect x="485" y="80" width="12" height="12" fill="#ebedf0"><title>2026-03-04: Rest Day</title></rect>
-<rect x="485" y="95" width="12" height="12" fill="#ebedf0"><title>2026-03-05: Rest Day</title></rect>
-<rect x="485" y="110" width="12" height="12" fill="#ebedf0"><title>2026-03-06: Rest Day</title></rect>
-<rect x="500" y="20" width="12" height="12" fill="#ebedf0"><title>2026-03-07: Rest Day</title></rect>
-<rect x="500" y="35" width="12" height="12" fill="#ebedf0"><title>2026-03-08: Rest Day</title></rect>
-<rect x="500" y="50" width="12" height="12" fill="#ebedf0"><title>2026-03-09: Rest Day</title></rect>
-<rect x="500" y="65" width="12" height="12" fill="#ebedf0"><title>2026-03-10: Rest Day</title></rect>
-<rect x="500" y="80" width="12" height="12" fill="#ebedf0"><title>2026-03-11: Rest Day</title></rect>
-<rect x="500" y="95" width="12" height="12" fill="#ebedf0"><title>2026-03-12: Rest Day</title></rect>
-<rect x="500" y="110" width="12" height="12" fill="#ebedf0"><title>2026-03-13: Rest Day</title></rect>
-<rect x="515" y="20" width="12" height="12" fill="#ebedf0"><title>2026-03-14: Rest Day</title></rect>
-<rect x="515" y="35" width="12" height="12" fill="#ebedf0"><title>2026-03-15: Rest Day</title></rect>
-<rect x="515" y="50" width="12" height="12" fill="#ebedf0"><title>2026-03-16: Rest Day</title></rect>
-<rect x="515" y="65" width="12" height="12" fill="#ebedf0"><title>2026-03-17: Rest Day</title></rect>
-<rect x="515" y="80" width="12" height="12" fill="#ebedf0"><title>2026-03-18: Rest Day</title></rect>
-<rect x="515" y="95" width="12" height="12" fill="#ebedf0"><title>2026-03-19: Rest Day</title></rect>
-<rect x="515" y="110" width="12" height="12" fill="#ebedf0"><title>2026-03-20: Rest Day</title></rect>
-<rect x="530" y="20" width="12" height="12" fill="#ebedf0"><title>2026-03-21: Rest Day</title></rect>
-<rect x="530" y="35" width="12" height="12" fill="#ebedf0"><title>2026-03-22: Rest Day</title></rect>
-<rect x="530" y="50" width="12" height="12" fill="#ebedf0"><title>2026-03-23: Rest Day</title></rect>
-<rect x="530" y="65" width="12" height="12" fill="#ebedf0"><title>2026-03-24: Rest Day</title></rect>
-<rect x="530" y="80" width="12" height="12" fill="#ebedf0"><title>2026-03-25: Rest Day</title></rect>
-<rect x="530" y="95" width="12" height="12" fill="#ebedf0"><title>2026-03-26: Rest Day</title></rect>
-<rect x="530" y="110" width="12" height="12" fill="#ebedf0"><title>2026-03-27: Rest Day</title></rect>
-<rect x="545" y="20" width="12" height="12" fill="#ebedf0"><title>2026-03-28: Rest Day</title></rect>
-<rect x="545" y="35" width="12" height="12" fill="#ebedf0"><title>2026-03-29: Rest Day</title></rect>
-<rect x="545" y="50" width="12" height="12" fill="#ebedf0"><title>2026-03-30: Rest Day</title></rect>
-<rect x="545" y="65" width="12" height="12" fill="#ebedf0"><title>2026-03-31: Rest Day</title></rect>
-<rect x="545" y="80" width="12" height="12" fill="#ebedf0"><title>2026-04-01: Rest Day</title></rect>
-<rect x="545" y="95" width="12" height="12" fill="#ebedf0"><title>2026-04-02: Rest Day</title></rect>
-<rect x="545" y="110" width="12" height="12" fill="#ebedf0"><title>2026-04-03: Rest Day</title></rect>
-<rect x="560" y="20" width="12" height="12" fill="#ebedf0"><title>2026-04-04: Rest Day</title></rect>
-<rect x="560" y="35" width="12" height="12" fill="#ebedf0"><title>2026-04-05: Rest Day</title></rect>
-<rect x="560" y="50" width="12" height="12" fill="#ebedf0"><title>2026-04-06: Rest Day</title></rect>
-<rect x="560" y="65" width="12" height="12" fill="#ebedf0"><title>2026-04-07: Rest Day</title></rect>
-<rect x="560" y="80" width="12" height="12" fill="#ebedf0"><title>2026-04-08: Rest Day</title></rect>
-<rect x="560" y="95" width="12" height="12" fill="#ebedf0"><title>2026-04-09: Rest Day</title></rect>
-<rect x="560" y="110" width="12" height="12" fill="#ebedf0"><title>2026-04-10: Rest Day</title></rect>
-<rect x="575" y="20" width="12" height="12" fill="#ebedf0"><title>2026-04-11: Rest Day</title></rect>
-<rect x="575" y="35" width="12" height="12" fill="#ebedf0"><title>2026-04-12: Rest Day</title></rect>
-<rect x="575" y="50" width="12" height="12" fill="#ebedf0"><title>2026-04-13: Rest Day</title></rect>
-<rect x="575" y="65" width="12" height="12" fill="#ebedf0"><title>2026-04-14: Rest Day</title></rect>
-<rect x="575" y="80" width="12" height="12" fill="#ebedf0"><title>2026-04-15: Rest Day</title></rect>
-<rect x="575" y="95" width="12" height="12" fill="#ebedf0"><title>2026-04-16: Rest Day</title></rect>
-<rect x="575" y="110" width="12" height="12" fill="#ebedf0"><title>2026-04-17: Rest Day</title></rect>
-<rect x="590" y="20" width="12" height="12" fill="#ebedf0"><title>2026-04-18: Rest Day</title></rect>
-<rect x="590" y="35" width="12" height="12" fill="#ebedf0"><title>2026-04-19: Rest Day</title></rect>
-<rect x="590" y="50" width="12" height="12" fill="#ebedf0"><title>2026-04-20: Rest Day</title></rect>
-<rect x="590" y="65" width="12" height="12" fill="#ebedf0"><title>2026-04-21: Rest Day</title></rect>
-<rect x="590" y="80" width="12" height="12" fill="#ebedf0"><title>2026-04-22: Rest Day</title></rect>
-<rect x="590" y="95" width="12" height="12" fill="#ebedf0"><title>2026-04-23: Rest Day</title></rect>
-<rect x="590" y="110" width="12" height="12" fill="#ebedf0"><title>2026-04-24: Rest Day</title></rect>
-<rect x="605" y="20" width="12" height="12" fill="#ebedf0"><title>2026-04-25: Rest Day</title></rect>
-<rect x="605" y="35" width="12" height="12" fill="#ebedf0"><title>2026-04-26: Rest Day</title></rect>
-<rect x="605" y="50" width="12" height="12" fill="#ebedf0"><title>2026-04-27: Rest Day</title></rect>
-<rect x="605" y="65" width="12" height="12" fill="#ebedf0"><title>2026-04-28: Rest Day</title></rect>
-<rect x="605" y="80" width="12" height="12" fill="#ebedf0"><title>2026-04-29: Rest Day</title></rect>
-<rect x="605" y="95" width="12" height="12" fill="#ebedf0"><title>2026-04-30: Rest Day</title></rect>
-<rect x="605" y="110" width="12" height="12" fill="#ebedf0"><title>2026-05-01: Rest Day</title></rect>
-<rect x="620" y="20" width="12" height="12" fill="#ebedf0"><title>2026-05-02: Rest Day</title></rect>
-<rect x="620" y="35" width="12" height="12" fill="#ebedf0"><title>2026-05-03: Rest Day</title></rect>
-<rect x="620" y="50" width="12" height="12" fill="#ebedf0"><title>2026-05-04: Rest Day</title></rect>
-<rect x="620" y="65" width="12" height="12" fill="#ebedf0"><title>2026-05-05: Rest Day</title></rect>
-<rect x="620" y="80" width="12" height="12" fill="#ebedf0"><title>2026-05-06: Rest Day</title></rect>
-<rect x="620" y="95" width="12" height="12" fill="#ebedf0"><title>2026-05-07: Rest Day</title></rect>
-<rect x="620" y="110" width="12" height="12" fill="#ebedf0"><title>2026-05-08: Rest Day</title></rect>
-<rect x="635" y="20" width="12" height="12" fill="#ebedf0"><title>2026-05-09: Rest Day</title></rect>
-<rect x="635" y="35" width="12" height="12" fill="#ebedf0"><title>2026-05-10: Rest Day</title></rect>
-<rect x="635" y="50" width="12" height="12" fill="#ebedf0"><title>2026-05-11: Rest Day</title></rect>
-<rect x="635" y="65" width="12" height="12" fill="#ebedf0"><title>2026-05-12: Rest Day</title></rect>
-<rect x="635" y="80" width="12" height="12" fill="#ebedf0"><title>2026-05-13: Rest Day</title></rect>
-<rect x="635" y="95" width="12" height="12" fill="#ebedf0"><title>2026-05-14: Rest Day</title></rect>
-<rect x="635" y="110" width="12" height="12" fill="#ebedf0"><title>2026-05-15: Rest Day</title></rect>
-<rect x="650" y="20" width="12" height="12" fill="#ebedf0"><title>2026-05-16: Rest Day</title></rect>
-<rect x="650" y="35" width="12" height="12" fill="#ebedf0"><title>2026-05-17: Rest Day</title></rect>
-<rect x="650" y="50" width="12" height="12" fill="#ebedf0"><title>2026-05-18: Rest Day</title></rect>
-<rect x="650" y="65" width="12" height="12" fill="#ebedf0"><title>2026-05-19: Rest Day</title></rect>
-<rect x="650" y="80" width="12" height="12" fill="#ebedf0"><title>2026-05-20: Rest Day</title></rect>
-<rect x="650" y="95" width="12" height="12" fill="#ebedf0"><title>2026-05-21: Rest Day</title></rect>
-<rect x="650" y="110" width="12" height="12" fill="#ebedf0"><title>2026-05-22: Rest Day</title></rect>
-<rect x="665" y="20" width="12" height="12" fill="#ebedf0"><title>2026-05-23: Rest Day</title></rect>
-<rect x="665" y="35" width="12" height="12" fill="#ebedf0"><title>2026-05-24: Rest Day</title></rect>
-<rect x="665" y="50" width="12" height="12" fill="#ebedf0"><title>2026-05-25: Rest Day</title></rect>
-<rect x="665" y="65" width="12" height="12" fill="#ebedf0"><title>2026-05-26: Rest Day</title></rect>
-<rect x="665" y="80" width="12" height="12" fill="#ebedf0"><title>2026-05-27: Rest Day</title></rect>
-<rect x="665" y="95" width="12" height="12" fill="#ebedf0"><title>2026-05-28: Rest Day</title></rect>
-<rect x="665" y="110" width="12" height="12" fill="#ebedf0"><title>2026-05-29: Rest Day</title></rect>
-<rect x="680" y="20" width="12" height="12" fill="#ebedf0"><title>2026-05-30: Rest Day</title></rect>
-<rect x="680" y="35" width="12" height="12" fill="#ebedf0"><title>2026-05-31: Rest Day</title></rect>
-<rect x="680" y="50" width="12" height="12" fill="#ebedf0"><title>2026-06-01: Rest Day</title></rect>
-<rect x="680" y="65" width="12" height="12" fill="#ebedf0"><title>2026-06-02: Rest Day</title></rect>
-<rect x="680" y="80" width="12" height="12" fill="#ebedf0"><title>2026-06-03: Rest Day</title></rect>
-<rect x="680" y="95" width="12" height="12" fill="#ebedf0"><title>2026-06-04: Rest Day</title></rect>
-<rect x="680" y="110" width="12" height="12" fill="#ebedf0"><title>2026-06-05: Rest Day</title></rect>
-<rect x="695" y="20" width="12" height="12" fill="#ebedf0"><title>2026-06-06: Rest Day</title></rect>
-<rect x="695" y="35" width="12" height="12" fill="#ebedf0"><title>2026-06-07: Rest Day</title></rect>
-<rect x="695" y="50" width="12" height="12" fill="#ebedf0"><title>2026-06-08: Rest Day</title></rect>
-<rect x="695" y="65" width="12" height="12" fill="#ebedf0"><title>2026-06-09: Rest Day</title></rect>
-<rect x="695" y="80" width="12" height="12" fill="#ebedf0"><title>2026-06-10: Rest Day</title></rect>
-<rect x="695" y="95" width="12" height="12" fill="#ebedf0"><title>2026-06-11: Rest Day</title></rect>
-<rect x="695" y="110" width="12" height="12" fill="#ebedf0"><title>2026-06-12: Rest Day</title></rect>
-<rect x="710" y="20" width="12" height="12" fill="#ebedf0"><title>2026-06-13: Rest Day</title></rect>
-<rect x="710" y="35" width="12" height="12" fill="#ebedf0"><title>2026-06-14: Rest Day</title></rect>
-<rect x="710" y="50" width="12" height="12" fill="#ebedf0"><title>2026-06-15: Rest Day</title></rect>
-<rect x="710" y="65" width="12" height="12" fill="#ebedf0"><title>2026-06-16: Rest Day</title></rect>
-<rect x="710" y="80" width="12" height="12" fill="#ebedf0"><title>2026-06-17: Rest Day</title></rect>
-<rect x="710" y="95" width="12" height="12" fill="#ebedf0"><title>2026-06-18: Rest Day</title></rect>
-<rect x="710" y="110" width="12" height="12" fill="#ebedf0"><title>2026-06-19: Rest Day</title></rect>
-<rect x="725" y="20" width="12" height="12" fill="#ebedf0"><title>2026-06-20: Rest Day</title></rect>
-<rect x="725" y="35" width="12" height="12" fill="#ebedf0"><title>2026-06-21: Rest Day</title></rect>
-<rect x="725" y="50" width="12" height="12" fill="#ebedf0"><title>2026-06-22: Rest Day</title></rect>
-<rect x="725" y="65" width="12" height="12" fill="#ebedf0"><title>2026-06-23: Rest Day</title></rect>
-<rect x="725" y="80" width="12" height="12" fill="#ebedf0"><title>2026-06-24: Rest Day</title></rect>
-<rect x="725" y="95" width="12" height="12" fill="#ebedf0"><title>2026-06-25: Rest Day</title></rect>
-<rect x="725" y="110" width="12" height="12" fill="#ebedf0"><title>2026-06-26: Rest Day</title></rect>
-<rect x="740" y="20" width="12" height="12" fill="#ebedf0"><title>2026-06-27: Rest Day</title></rect>
-<rect x="740" y="35" width="12" height="12" fill="#ebedf0"><title>2026-06-28: Rest Day</title></rect>
-<rect x="740" y="50" width="12" height="12" fill="#ebedf0"><title>2026-06-29: Rest Day</title></rect>
-<rect x="740" y="65" width="12" height="12" fill="#ebedf0"><title>2026-06-30: Rest Day</title></rect>
-<rect x="740" y="80" width="12" height="12" fill="#ebedf0"><title>2026-07-01: Rest Day</title></rect>
-<rect x="740" y="95" width="12" height="12" fill="#ebedf0"><title>2026-07-02: Rest Day</title></rect>
-<rect x="740" y="110" width="12" height="12" fill="#ebedf0"><title>2026-07-03: Rest Day</title></rect>
-<rect x="755" y="20" width="12" height="12" fill="#ebedf0"><title>2026-07-04: Rest Day</title></rect>
-<rect x="755" y="35" width="12" height="12" fill="#ebedf0"><title>2026-07-05: Rest Day</title></rect>
-<rect x="755" y="50" width="12" height="12" fill="#ebedf0"><title>2026-07-06: Rest Day</title></rect>
-<rect x="755" y="65" width="12" height="12" fill="#ebedf0"><title>2026-07-07: Rest Day</title></rect>
-<rect x="755" y="80" width="12" height="12" fill="#ebedf0"><title>2026-07-08: Rest Day</title></rect>
-<rect x="755" y="95" width="12" height="12" fill="#ebedf0"><title>2026-07-09: Rest Day</title></rect>
-<rect x="755" y="110" width="12" height="12" fill="#ebedf0"><title>2026-07-10: Rest Day</title></rect>
-<rect x="770" y="20" width="12" height="12" fill="#ebedf0"><title>2026-07-11: Rest Day</title></rect>
-<rect x="770" y="35" width="12" height="12" fill="#ebedf0"><title>2026-07-12: Rest Day</title></rect>
-<rect x="770" y="50" width="12" height="12" fill="#ebedf0"><title>2026-07-13: Rest Day</title></rect>
-<rect x="770" y="65" width="12" height="12" fill="#ebedf0"><title>2026-07-14: Rest Day</title></rect>
-<rect x="770" y="80" width="12" height="12" fill="#ebedf0"><title>2026-07-15: Rest Day</title></rect>
-<rect x="770" y="95" width="12" height="12" fill="#ebedf0"><title>2026-07-16: Rest Day</title></rect>
-<rect x="770" y="110" width="12" height="12" fill="#ebedf0"><title>2026-07-17: Rest Day</title></rect>
-<rect x="785" y="20" width="12" height="12" fill="#ebedf0"><title>2026-07-18: Rest Day</title></rect>
-<rect x="785" y="35" width="12" height="12" fill="#ebedf0"><title>2026-07-19: Rest Day</title></rect>
-<rect x="785" y="50" width="12" height="12" fill="#ebedf0"><title>2026-07-20: Rest Day</title></rect>
-<rect x="785" y="65" width="12" height="12" fill="#ebedf0"><title>2026-07-21: Rest Day</title></rect>
-<rect x="785" y="80" width="12" height="12" fill="#ebedf0"><title>2026-07-22: Rest Day</title></rect>
-<rect x="785" y="95" width="12" height="12" fill="#ebedf0"><title>2026-07-23: Rest Day</title></rect>
-<rect x="785" y="110" width="12" height="12" fill="#ffd700"><title>2026-07-24: SSB / PPDT Prep, Codeforces, Tech & AI</title></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="810" height="140" viewBox="0 0 810 140">
+<style>rect { rx: 2px; ry: 2px; } text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; font-size: 9px; fill: #57606a; }</style>
+<rect width="810" height="140" fill="#ffffff" />
+<text x="20" y="15">Jul</text>
+<text x="35" y="15">Aug</text>
+<text x="110" y="15">Sep</text>
+<text x="170" y="15">Oct</text>
+<text x="230" y="15">Nov</text>
+<text x="305" y="15">Dec</text>
+<text x="365" y="15">Jan</text>
+<text x="440" y="15">Feb</text>
+<text x="500" y="15">Mar</text>
+<text x="560" y="15">Apr</text>
+<text x="620" y="15">May</text>
+<text x="695" y="15">Jun</text>
+<text x="755" y="15">Jul</text>
+<rect x="20" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="20" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="35" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="50" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="65" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="80" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="95" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="110" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="125" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="140" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="155" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="170" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="185" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="200" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="215" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="230" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="245" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="260" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="275" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="290" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="305" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="320" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="335" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="350" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="365" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="380" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="395" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="410" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="425" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="440" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="455" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="470" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="485" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="500" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="515" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="530" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="545" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="560" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="575" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="590" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="605" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="620" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="635" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="650" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="665" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="680" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="695" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="710" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="725" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="740" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="755" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="770" y="115" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="25" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="40" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="55" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="70" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="85" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="100" width="12" height="12" fill="#ebedf0" />
+<rect x="785" y="115" width="12" height="12" fill="#ffd700" />
 </svg>
