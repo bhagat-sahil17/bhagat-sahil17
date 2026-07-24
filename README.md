@@ -1,8 +1,6 @@
 ## 🎯 Daily Productivity & Learning Log
 
-<object type="image/svg+xml" data="./heatmap.svg">
-  <img src="./heatmap.svg" alt="Life Heatmap" />
-</object>
+![Life Heatmap](https://raw.githubusercontent.com/bhagat-sahil17/bhagat-sahil17/main/heatmap.svg)
 
 **Legend:**
 - 🟦 **Blue:** SSB / PPDT Prep
