@@ -61,6 +61,6 @@
 
 ### 📈 GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=bhagat-sahil17&show_icons=true&theme=radial&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagat-sahil17&layout=compact&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api?username=bhagat-sahil17&show_icons=true&theme=radial&hide_border=true" width="48%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=bhagat-sahil17&layout=compact&theme=radial&hide_border=true" width="48%" />
 </p>
