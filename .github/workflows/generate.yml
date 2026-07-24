@@ -3,7 +3,7 @@ name: Generate Life Heatmap
 on:
   push:
     paths:
-      - 'habits.json'
+      - 'growth.json'
       - 'generate_heatmap.py'
   workflow_dispatch:
 
