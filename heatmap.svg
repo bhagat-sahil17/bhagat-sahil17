@@ -8,7 +8,7 @@
     fill: #57606a;
   }
   .month-label { font-weight: 600; font-size: 10px; }
-  .day-marker { font-size: 8px; font-weight: 200;}
+  .day-marker { font-size: 8px; font-weight: 400; }
 </style>
 
 <rect width="825" height="145" fill="#ffffff" />
@@ -19,15 +19,15 @@
 <text x="245" y="20" class="month-label">Nov</text>
 <text x="320" y="20" class="month-label">Dec</text>
 <text x="380" y="20" class="month-label">Jan</text>
-<text x="455" y="20" class="month-label">Feb</text>
-<text x="515" y="20" class="month-label">Mar</text>
+<text x="440" y="20" class="month-label">Feb</text>
+<text x="500" y="20" class="month-label">Mar</text>
 <text x="575" y="20" class="month-label">Apr</text>
 <text x="635" y="20" class="month-label">May</text>
 <text x="710" y="20" class="month-label">Jun</text>
 <text x="770" y="20" class="month-label">Jul</text>
-<text x="5" y="39.0" class="day-marker">Mon</text>
-<text x="5" y="69.0" class="day-marker">Wed</text>
-<text x="5" y="99.0" class="day-marker">Fri</text>
+<text x="5" y="54.0" class="day-marker">Mon</text>
+<text x="5" y="84.0" class="day-marker">Wed</text>
+<text x="5" y="114.0" class="day-marker">Fri</text>
 <rect x="35" y="30" width="12" height="12" fill="#ebedf0" />
 <rect x="35" y="45" width="12" height="12" fill="#ebedf0" />
 <rect x="35" y="60" width="12" height="12" fill="#ebedf0" />
@@ -390,6 +390,6 @@
 <rect x="800" y="60" width="12" height="12" fill="#ebedf0" />
 <rect x="800" y="75" width="12" height="12" fill="#ebedf0" />
 <rect x="800" y="90" width="12" height="12" fill="#ebedf0" />
-<rect x="800" y="105" width="12" height="12" fill="#ebedf0" />
-<rect x="800" y="120" width="12" height="12" fill="#ffd700" />
+<rect x="800" y="105" width="12" height="12" fill="#ffd700" />
+<rect x="800" y="120" width="12" height="12" fill="#ebedf0" />
 </svg>
